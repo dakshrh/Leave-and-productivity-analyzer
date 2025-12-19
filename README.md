@@ -66,6 +66,22 @@ src/
 └── pages/api/
 ├── upload.ts # Excel ingestion API
 
+📸 Screenshots
+
+Screenshots of:
+Excel upload flow 
+<img width="925" height="563" alt="image" src="https://github.com/user-attachments/assets/189734a9-0bce-4502-be7e-029aae94df65" />
+
+Successful data insertion
+<img width="917" height="718" alt="image" src="https://github.com/user-attachments/assets/321b641d-9816-48e8-bb95-36c10aa04829" />
+
+MongoDB records
+<img width="1810" height="932" alt="image" src="https://github.com/user-attachments/assets/f94960c4-73ba-4d19-827e-1eb0253cc45f" />
+
+
+Productivity dashboard
+<img width="1243" height="735" alt="image" src="https://github.com/user-attachments/assets/a4e6c2b1-91fc-4a53-b44b-8e01d5c0d46f" />
+
 
 ---
 
@@ -179,24 +195,12 @@ npm run dev
 
 Open: http://localhost:3000
 
-📸 Screenshots
-
-Screenshots of:
-Excel upload flow
-Successful data insertion
-MongoDB records
-Productivity dashboard
-
 🚀 Future Enhancements
 
 Authentication & role-based access
-
 Multi-employee dashboard
-
 Charts & trend analysis
-
 Holiday & weekend detection
-
 Cloud deployment (Vercel)
 
 👤 Author
